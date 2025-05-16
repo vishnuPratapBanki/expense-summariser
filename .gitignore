@@ -1,0 +1,17 @@
+# Java / Spring
+/backend/target/
+
+# Node / React
+/frontend/node_modules/
+
+# Docker
+**/.env
+
+#intellij
+.idea/
+
+# Ignore Docker tar files and other large files
+*.tar
+*.zip
+*.gz
+
